@@ -13,7 +13,7 @@
         "name":"John wick 3",
         "img":"https://raw.githubusercontent.com/CrizzVc/InfoPelis/refs/heads/main/img/p1/img.png",
         "portada":"https://raw.githubusercontent.com/CrizzVc/InfoPelis/refs/heads/main/img/p1/portada.jpg",
-        "genero":"accion",
+        "genero":"acción",
         "descripcion":"Con una recompensa de 14 millones de dólares por su cabeza, John Wick (Keanu Reeves) está en plena huída. Después de haber roto la regla de matar a alguien en el interior del Hotel Continental, John Wick debería haber sido ejecutado. Excomunicado, con su membresía revocada, todavía dispone de una hora de ventaja para poder huir. A partir de ese tiempo, hombres y mujeres sicarios de todo el mundo tratarán de detenerle, eso sí, encontrará una aliada que sigue creyendo en él.",
         "critica":"4,0"
     },
@@ -28,30 +28,30 @@
     },
     {
         "id":"3",
-        "name":"your name",
+        "name":"Interstellar",
         "img":"",
         "portada":"",
-        "genero":"",
-        "descripcion":"",
-        "critica":"4,0"
+        "genero":"ciencia ficción",
+        "descripcion":"nterstellar narra las aventuras de un grupo de exploradores que hacen uso de un agujero de gusano recientemente descubierto con el propósito de superar los límites hasta ahora conocidos por la Humanidad y conquistar las vastas distancias a la que abre paso el viaje interestelar.",
+        "critica":"4,3"
     },
     {
         "id":"4",
-        "name":"your name",
+        "name":"dunkerque",
         "img":"",
         "portada":"",
-        "genero":"",
-        "descripcion":"",
-        "critica":"4,0"
+        "genero":"drama",
+        "descripcion":"En 1940, durante la caída de Francia ante el avance inminente del ejército de la Alemania Nazi, cientos de miles de soldados aliados se retiraron a la ciudad costera de Dunkerque. Tommy (Fionn Whitehead), un joven soldado británico, es el único superviviente de una emboscada alemana.",
+        "critica":"4,7"
     },
     {
         "id":"5",
-        "name":"your name",
+        "name":"500 days of summer",
         "img":"",
         "portada":"",
-        "genero":"",
-        "descripcion":"",
-        "critica":"4,0"
+        "genero":"romance",
+        "descripcion":"Tom, un escritor de tarjetas de felicitación y un romántico desesperado, se sorprende totalmente cuando su novia, Summer, repentinamente lo abandona. Él analiza los 500 días que pasaron juntos para intentar descubrir en que parte falló su relación amorosa y en el proceso, Tom redescubre sus verdaderas pasiones en la vida.",
+        "critica":"3,4"
     },
     {
         "id":"6",
