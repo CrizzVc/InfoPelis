@@ -29,8 +29,8 @@
     {
         "id":"3",
         "name":"Interstellar",
-        "img":"",
-        "portada":"",
+        "img":"https://raw.githubusercontent.com/CrizzVc/InfoPelis/refs/heads/main/img/p3/img.png",
+        "portada":"https://raw.githubusercontent.com/CrizzVc/InfoPelis/refs/heads/main/img/p3/portada.png",
         "genero":"ciencia ficción",
         "descripcion":"nterstellar narra las aventuras de un grupo de exploradores que hacen uso de un agujero de gusano recientemente descubierto con el propósito de superar los límites hasta ahora conocidos por la Humanidad y conquistar las vastas distancias a la que abre paso el viaje interestelar.",
         "critica":"4,3"
@@ -38,8 +38,8 @@
     {
         "id":"4",
         "name":"dunkerque",
-        "img":"",
-        "portada":"",
+        "img":"https://raw.githubusercontent.com/CrizzVc/InfoPelis/refs/heads/main/img/p4/img.png",
+        "portada":"https://raw.githubusercontent.com/CrizzVc/InfoPelis/refs/heads/main/img/p4/portada.jpg",
         "genero":"drama",
         "descripcion":"En 1940, durante la caída de Francia ante el avance inminente del ejército de la Alemania Nazi, cientos de miles de soldados aliados se retiraron a la ciudad costera de Dunkerque. Tommy (Fionn Whitehead), un joven soldado británico, es el único superviviente de una emboscada alemana.",
         "critica":"4,7"
@@ -47,8 +47,8 @@
     {
         "id":"5",
         "name":"500 days of summer",
-        "img":"",
-        "portada":"",
+        "img":"https://raw.githubusercontent.com/CrizzVc/InfoPelis/refs/heads/main/img/p5/img.png",
+        "portada":"https://raw.githubusercontent.com/CrizzVc/InfoPelis/refs/heads/main/img/p5/portada.png",
         "genero":"romance",
         "descripcion":"Tom, un escritor de tarjetas de felicitación y un romántico desesperado, se sorprende totalmente cuando su novia, Summer, repentinamente lo abandona. Él analiza los 500 días que pasaron juntos para intentar descubrir en que parte falló su relación amorosa y en el proceso, Tom redescubre sus verdaderas pasiones en la vida.",
         "critica":"3,4"
