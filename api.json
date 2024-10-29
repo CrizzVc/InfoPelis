@@ -1,0 +1,90 @@
+[
+    {
+        "id":"0",
+        "name":"your name",
+        "img":"",
+        "portada":"",
+        "genero":"anime",
+        "descripcion":""
+    },
+    {
+        "id":"1",
+        "name":"john wick 3",
+        "img":"",
+        "portada":"",
+        "genero":"accion",
+        "descripcion":""
+    },
+    {
+        "id":"2",
+        "name":"your name",
+        "img":"",
+        "portada":"",
+        "genero":"",
+        "descripcion":""
+    },
+    {
+        "id":"3",
+        "name":"your name",
+        "img":"",
+        "portada":"",
+        "genero":"",
+        "descripcion":""
+    },
+    {
+        "id":"4",
+        "name":"your name",
+        "img":"",
+        "portada":"",
+        "genero":"",
+        "descripcion":""
+    },
+    {
+        "id":"5",
+        "name":"your name",
+        "img":"",
+        "portada":"",
+        "genero":"",
+        "descripcion":""
+    },
+    {
+        "id":"6",
+        "name":"your name",
+        "img":"",
+        "portada":"",
+        "genero":"",
+        "descripcion":""
+    },
+    {
+        "id":"7",
+        "name":"your name",
+        "img":"",
+        "portada":"",
+        "genero":"",
+        "descripcion":""
+    },
+    {
+        "id":"8",
+        "name":"your name",
+        "img":"",
+        "portada":"",
+        "genero":"",
+        "descripcion":""
+    },
+    {
+        "id":"9",
+        "name":"your name",
+        "img":"",
+        "portada":"",
+        "genero":"",
+        "descripcion":""
+    },
+    {
+        "id":"10",
+        "name":"your name",
+        "img":"",
+        "portada":"",
+        "genero":"",
+        "descripcion":""
+    }
+]
