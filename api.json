@@ -1,101 +1,103 @@
-[
-    {
-        "id":"0",
-        "name":"Your name",
-        "img":"https://raw.githubusercontent.com/CrizzVc/InfoPelis/refs/heads/main/img/p0/img.png",
-        "portada":"https://raw.githubusercontent.com/CrizzVc/InfoPelis/refs/heads/main/img/p0/portada.jpg",
-        "genero":"anime",
-        "descripcion":"YOUR NAME sigue a dos adolescentes japoneses, Taki (Michael Sinterniklaas), un chico de la gran ciudad, y Mitsuha (Stephanie Sheh), una chica del campo, que una mañana se despiertan misteriosamente en el cuerpo del otro.",
-        "critica":"4,1"
-    },
-    {
-        "id":"1",
-        "name":"John wick 3",
-        "img":"https://raw.githubusercontent.com/CrizzVc/InfoPelis/refs/heads/main/img/p1/img.png",
-        "portada":"https://raw.githubusercontent.com/CrizzVc/InfoPelis/refs/heads/main/img/p1/portada.jpg",
-        "genero":"acción",
-        "descripcion":"Con una recompensa de 14 millones de dólares por su cabeza, John Wick (Keanu Reeves) está en plena huída. Después de haber roto la regla de matar a alguien en el interior del Hotel Continental, John Wick debería haber sido ejecutado. Excomunicado, con su membresía revocada, todavía dispone de una hora de ventaja para poder huir. A partir de ese tiempo, hombres y mujeres sicarios de todo el mundo tratarán de detenerle, eso sí, encontrará una aliada que sigue creyendo en él.",
-        "critica":"4,0"
-    },
-    {
-        "id":"2",
-        "name":"Robot salvaje",
-        "img":"https://raw.githubusercontent.com/CrizzVc/InfoPelis/refs/heads/main/img/p2/img.png",
-        "portada":"https://raw.githubusercontent.com/CrizzVc/InfoPelis/refs/heads/main/img/p2/portada.png",
-        "genero":"aventura",
-        "descripcion":"La historia trata de Roz, la unidad 7134 de Rozzum, un robot diseñado para realizar tareas y aliviar el trabajo de los humanos. Sin embargo, un fenómeno climático la deja naufragada en una isla salvaje, donde debe aprender a sobrevivir. Roz se adapta a su nuevo entorno, se gana la confianza de los animales y adopta a un polluelo huérfano al que llama Brightbill",
-        "critica":"4,3"
-    },
-    {
-        "id":"3",
-        "name":"Interstellar",
-        "img":"https://raw.githubusercontent.com/CrizzVc/InfoPelis/refs/heads/main/img/p3/img.png",
-        "portada":"https://raw.githubusercontent.com/CrizzVc/InfoPelis/refs/heads/main/img/p3/portada.png",
-        "genero":"ciencia ficción",
-        "descripcion":"nterstellar narra las aventuras de un grupo de exploradores que hacen uso de un agujero de gusano recientemente descubierto con el propósito de superar los límites hasta ahora conocidos por la Humanidad y conquistar las vastas distancias a la que abre paso el viaje interestelar.",
-        "critica":"4,3"
-    },
-    {
-        "id":"4",
-        "name":"dunkerque",
-        "img":"https://raw.githubusercontent.com/CrizzVc/InfoPelis/refs/heads/main/img/p4/img.png",
-        "portada":"https://raw.githubusercontent.com/CrizzVc/InfoPelis/refs/heads/main/img/p4/portada.jpg",
-        "genero":"drama",
-        "descripcion":"En 1940, durante la caída de Francia ante el avance inminente del ejército de la Alemania Nazi, cientos de miles de soldados aliados se retiraron a la ciudad costera de Dunkerque. Tommy (Fionn Whitehead), un joven soldado británico, es el único superviviente de una emboscada alemana.",
-        "critica":"4,7"
-    },
-    {
-        "id":"5",
-        "name":"500 days of summer",
-        "img":"https://raw.githubusercontent.com/CrizzVc/InfoPelis/refs/heads/main/img/p5/img.png",
-        "portada":"https://raw.githubusercontent.com/CrizzVc/InfoPelis/refs/heads/main/img/p5/portada.png",
-        "genero":"romance",
-        "descripcion":"Tom, un escritor de tarjetas de felicitación y un romántico desesperado, se sorprende totalmente cuando su novia, Summer, repentinamente lo abandona. Él analiza los 500 días que pasaron juntos para intentar descubrir en que parte falló su relación amorosa y en el proceso, Tom redescubre sus verdaderas pasiones en la vida.",
-        "critica":"3,4"
-    },
-    {
-        "id":"6",
-        "name":"your name",
-        "img":"",
-        "portada":"",
-        "genero":"",
-        "descripcion":"",
-        "critica":"4,0"
-    },
-    {
-        "id":"7",
-        "name":"your name",
-        "img":"",
-        "portada":"",
-        "genero":"",
-        "descripcion":"",
-        "critica":"4,0"
-    },
-    {
-        "id":"8",
-        "name":"your name",
-        "img":"",
-        "portada":"",
-        "genero":"",
-        "descripcion":"",
-        "critica":"4,0"
-    },
-    {
-        "id":"9",
-        "name":"your name",
-        "img":"",
-        "portada":"",
-        "genero":"",
-        "descripcion":"",
-        "critica":"4,0"
-    },
-    {
-        "id":"10",
-        "name":"your name",
-        "img":"",
-        "portada":"",
-        "genero":"",
-        "descripcion":"",
-        "critica":"4,0"
-    }
+{
+  "result":[
+  {
+    "id": "0",
+    "name": "Your name",
+    "img": "https://raw.githubusercontent.com/CrizzVc/InfoPelis/refs/heads/main/img/p0/img.png",
+    "portada": "https://raw.githubusercontent.com/CrizzVc/InfoPelis/refs/heads/main/img/p0/portada.jpg",
+    "genero": "anime",
+    "descripcion": "YOUR NAME sigue a dos adolescentes japoneses, Taki (Michael Sinterniklaas), un chico de la gran ciudad, y Mitsuha (Stephanie Sheh), una chica del campo, que una mañana se despiertan misteriosamente en el cuerpo del otro.",
+    "critica": "4,1"
+  },
+  {
+    "id": "1",
+    "name": "John wick 3",
+    "img": "https://raw.githubusercontent.com/CrizzVc/InfoPelis/refs/heads/main/img/p1/img.png",
+    "portada": "https://raw.githubusercontent.com/CrizzVc/InfoPelis/refs/heads/main/img/p1/portada.jpg",
+    "genero": "acción",
+    "descripcion": "Con una recompensa de 14 millones de dólares por su cabeza, John Wick (Keanu Reeves) está en plena huída. Después de haber roto la regla de matar a alguien en el interior del Hotel Continental, John Wick debería haber sido ejecutado. Excomunicado, con su membresía revocada, todavía dispone de una hora de ventaja para poder huir. A partir de ese tiempo, hombres y mujeres sicarios de todo el mundo tratarán de detenerle, eso sí, encontrará una aliada que sigue creyendo en él.",
+    "critica": "4,0"
+  },
+  {
+    "id": "2",
+    "name": "Robot salvaje",
+    "img": "https://raw.githubusercontent.com/CrizzVc/InfoPelis/refs/heads/main/img/p2/img.png",
+    "portada": "https://raw.githubusercontent.com/CrizzVc/InfoPelis/refs/heads/main/img/p2/portada.png",
+    "genero": "aventura",
+    "descripcion": "La historia trata de Roz, la unidad 7134 de Rozzum, un robot diseñado para realizar tareas y aliviar el trabajo de los humanos. Sin embargo, un fenómeno climático la deja naufragada en una isla salvaje, donde debe aprender a sobrevivir. Roz se adapta a su nuevo entorno, se gana la confianza de los animales y adopta a un polluelo huérfano al que llama Brightbill",
+    "critica": "4,3"
+  },
+  {
+    "id": "3",
+    "name": "Interstellar",
+    "img": "https://raw.githubusercontent.com/CrizzVc/InfoPelis/refs/heads/main/img/p3/img.png",
+    "portada": "https://raw.githubusercontent.com/CrizzVc/InfoPelis/refs/heads/main/img/p3/portada.png",
+    "genero": "ciencia ficción",
+    "descripcion": "nterstellar narra las aventuras de un grupo de exploradores que hacen uso de un agujero de gusano recientemente descubierto con el propósito de superar los límites hasta ahora conocidos por la Humanidad y conquistar las vastas distancias a la que abre paso el viaje interestelar.",
+    "critica": "4,3"
+  },
+  {
+    "id": "4",
+    "name": "dunkerque",
+    "img": "https://raw.githubusercontent.com/CrizzVc/InfoPelis/refs/heads/main/img/p4/img.png",
+    "portada": "https://raw.githubusercontent.com/CrizzVc/InfoPelis/refs/heads/main/img/p4/portada.jpg",
+    "genero": "drama",
+    "descripcion": "En 1940, durante la caída de Francia ante el avance inminente del ejército de la Alemania Nazi, cientos de miles de soldados aliados se retiraron a la ciudad costera de Dunkerque. Tommy (Fionn Whitehead), un joven soldado británico, es el único superviviente de una emboscada alemana.",
+    "critica": "4,7"
+  },
+  {
+    "id": "5",
+    "name": "500 days of summer",
+    "img": "https://raw.githubusercontent.com/CrizzVc/InfoPelis/refs/heads/main/img/p5/img.png",
+    "portada": "https://raw.githubusercontent.com/CrizzVc/InfoPelis/refs/heads/main/img/p5/portada.png",
+    "genero": "romance",
+    "descripcion": "Tom, un escritor de tarjetas de felicitación y un romántico desesperado, se sorprende totalmente cuando su novia, Summer, repentinamente lo abandona. Él analiza los 500 días que pasaron juntos para intentar descubrir en que parte falló su relación amorosa y en el proceso, Tom redescubre sus verdaderas pasiones en la vida.",
+    "critica": "3,4"
+  },
+  {
+    "id": "6",
+    "name": "your name",
+    "img": "",
+    "portada": "",
+    "genero": "",
+    "descripcion": "",
+    "critica": "4,0"
+  },
+  {
+    "id": "7",
+    "name": "your name",
+    "img": "",
+    "portada": "",
+    "genero": "",
+    "descripcion": "",
+    "critica": "4,0"
+  },
+  {
+    "id": "8",
+    "name": "your name",
+    "img": "",
+    "portada": "",
+    "genero": "",
+    "descripcion": "",
+    "critica": "4,0"
+  },
+  {
+    "id": "9",
+    "name": "your name",
+    "img": "",
+    "portada": "",
+    "genero": "",
+    "descripcion": "",
+    "critica": "4,0"
+  },
+  {
+    "id": "10",
+    "name": "your name",
+    "img": "",
+    "portada": "",
+    "genero": "",
+    "descripcion": "",
+    "critica": "4,0"
+  }
 ]
+}
